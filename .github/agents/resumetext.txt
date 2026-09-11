@@ -1,0 +1,45 @@
+Jay LeBrun
+211 Louie st • Lake Charles, LA 70601
+(337) 563-9731 • jhjaylebrun@gmail.com
+Professional Summary
+Seasoned technical accountant and carrier solutions specialist with a unique blend of
+financial and IT expertise. Background includes internal auditing, robotic process
+automation, business and technical writing. Adept in leveraging tools like Python, VBA, SQL
+and Salesforce to streamline operations and improve accuracy in financial and operational
+processes.
+Education
+McN eese State University Lake Charles, LA
+Bachelor of Science, Finance (Economics Focus)
+Sowela Technical College Lake Charles, LA
+Associate of Applied Technolow, Computer Programming & Database Administration
+Tech Talent South Phoenix, M
+Full Stack Development Bootcamp
+Technical Skills
+Languages/Tools: Python, SQL VBA, JavaScript, HTML/CSS, Selenium, XML
+Systems: AS/400, Salesforce, WC, Wintel
+Applications: MS Office Suite, Jira, ServiceNow (SNOW), Zoom, WebEx
+Other: GAAP, Reconciliations, NAV Reporting, Test Case Documentation, Business Writing
+Professional Experience
+Zinnia — Remote/Lake Charles, LA
+Carrier Solutions Specialist (2022 2025)
+• Automated financial workflows using Python, VBA, and Selenium to support reconciliation
+and NAV reporting.
+• Coordinated with department managers and other departments to handle technical,
+regulatory, and legal issues with automation deployment
+• Collaborated with accountants to streamline manual processes, increasing overall
+efficiency.
+Cognizant Technology — Remote/Lake Charles, LA
+Quality Assurance Analyst / Tier 1 Support (2019 2022)
+• Provided Tier 1 support using ServiceNow ticketing system; resolved technical issues
+across departments.
+• Performed QA testing and database queries to support enterprise-level insurance systems
+• Analyzed AS400 claims data and documented discrepancies for resolution and reporting.
+• Wrote and maintained technical documentation for QA procedures and client
+communication.
+Communication & Collaboration
+Strong verbal and written communication skills across financial, technical, and business
+domains. Experienced in cross-functional collaboration using platforms like Microsoft
+Teams, Jira, and WebEx. Adaptable to evolving standards in agile, remote, and hybrid
+environments.
+References
+Available upon request
