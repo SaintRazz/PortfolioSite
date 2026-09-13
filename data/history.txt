@@ -1,0 +1,179 @@
+# Technical Background and Professional Development
+
+## Early Interest in Technology
+
+My interest in technology developed gradually and began well before I considered it as a career. As a child, I was strongly interested in science, learning, and understanding how things worked.
+
+When I was approximately eleven or twelve years old, I attended a short computer camp lasting several days. We worked with TRS-80 Tandy computers, using the large flexible floppy disks common at the time. The course covered basic computer hardware and software terminology and introduced some elementary programming concepts.
+
+I do not remember the programming language with certainty, although I believe it was BASIC. More important than the particular language was the introduction to algorithms and the logical processes underlying computer programming. This was my first significant exposure to computers as something that could be understood and programmed rather than simply used.
+
+Computer education in the public school system at the time was limited. What was generally described as “computer literacy” consisted largely of basic computer operation, keyboarding, use of a mouse, and elementary productivity software such as spreadsheets. I graduated from high school in 1991, when personal computing was quite different from what it would become only a few years later. Windows existed, but the Windows environments of that period still operated on top of DOS; the much more integrated Windows 95 environment was still several years away.
+
+## College, the Army, and Discovering That I Enjoyed Working With Computers
+
+After high school, I initially attended college in a pre-nursing program before deciding that nursing was not the career I wanted. I subsequently enlisted in the U.S. Army Medical Corps.
+
+During this period, I purchased a personal computer and several computer games. Running PC games during the DOS era frequently required considerably more technical involvement than installing and launching a modern application. I found myself editing files such as `CONFIG.SYS` and `AUTOEXEC.BAT`, adjusting system settings, and troubleshooting hardware and software configurations simply to make games run properly.
+
+Somewhere during that process, I realized that I often enjoyed figuring out how to make the games work as much as—or sometimes more than—I enjoyed actually playing them.
+
+That realization was an important point in the development of my interest in technology.
+
+While serving in the Army, I took advantage of an education center to take a programming course in Pascal. Military responsibilities and subsequent changes of duty station prevented me from developing significant proficiency in Pascal, but the course reinforced my interest in programming and computing.
+
+My military occupation also provided some technology-adjacent experience. I served as a combat medic and medical radiographer, which meant that I routinely worked with medical imaging technology.
+
+During a 1996 deployment to Bosnia, the Army introduced hardware and software supporting what was then relatively new telemedicine technology. The systems used imaging equipment, probes, computers, communications equipment, and satellite uplinks to allow medical practitioners in the field to transmit medical information to specialists elsewhere.
+
+For example, a general medical practitioner could transmit images from an endoscope, radiographic equipment, or another imaging device to an appropriate specialist—such as a radiologist or an ear, nose, and throat specialist—who might be located in another city or even on another continent. Information could be transmitted either as stored images or, where appropriate, as live feeds.
+
+Because the technology was new, there was not yet a large pool of personnel specifically trained to operate it. Medical personnel who were already familiar with imaging technology were therefore among those selected to work with the systems. As a medical radiographer, I was part of an early group of technicians exposed to and using this technology.
+
+Although the equipment was specialized and ruggedized for military field use, much of the underlying computing infrastructure was recognizable PC technology: Windows-based software running on Intel-compatible hardware and interfacing with specialized medical and communications equipment.
+
+That experience brought me closer to information technology even though IT was not yet my primary profession.
+
+I left the Army around 1998–1999.
+
+## Post-Army Education and Early IT Experience
+
+After leaving military service, I worked primarily in the casino gaming industry while continuing my education.
+
+Around 2001, I briefly worked as an IT technician at Player's Island Casino in Lake Charles, Louisiana, which was later acquired by Harrah's. This gave me some early professional exposure to IT support processes, including the use of a ticketing system.
+
+I subsequently found that table games and poker-room work offered better compensation and scheduling flexibility while I attended college. Although casino operations themselves were not primarily technical work, the schedule and income made it practical for me to continue pursuing higher education.
+
+I studied finance and economics at McNeese State University while also studying microcomputer programming and database administration at Sowela Technical College in Lake Charles.
+
+During this period, I continued developing technical skills independently. I repaired, modified, and upgraded my own computers and laptops and continued experimenting with hardware and software at home.
+
+I completed an Associate of Applied Technology degree at Sowela in 2010.
+
+Unfortunately, 2010 was not an especially favorable time to begin a technology career. The labor market was still recovering from the 2008 financial crisis, and Southwest Louisiana was not—and is not—a major technology employment center. Consequently, I was unable to move immediately into a sustained technology position.
+
+I eventually moved into hotel management. In 2015, I became a hotel general manager in Lake Charles. When the hotel was sold and my position was eliminated, I relocated to Phoenix, Arizona, in 2016 and continued working in hotel management.
+
+## Full-Stack Development Training and Return to Technology
+
+In 2019, I found an opportunity to make a deliberate transition back into technology.
+
+I attended a three-month full-stack development boot camp in Phoenix sponsored by Cognizant Technology Solutions. My previous associate degree in a technical field gave me a useful foundation going into the program.
+
+The boot camp took place during the summer of 2019, approximately June through August. Cognizant sponsored the program with the expectation that participants who successfully completed it would be eligible for employment.
+
+I completed the program successfully, although Cognizant did not immediately have an appropriate client assignment available for me. After a short period awaiting placement, I joined Cognizant in October 2019.
+
+This marked my transition into sustained professional technology work.
+
+## Cognizant and CVS
+
+At Cognizant, I worked remotely from Phoenix on an account supporting CVS.
+
+My initial responsibilities included Tier 1 technical support. I worked with ServiceNow—often referred to as SNOW—for incident and support ticket management. This was not my first exposure to ticketing systems, since I had used a different system during my earlier casino IT work, but it gave me experience with a major enterprise service-management platform.
+
+After several months, I transitioned primarily into quality assurance analysis and testing.
+
+The systems I worked with were involved in processing pharmaceutical insurance claims associated with prescription fulfillment for CVS. I remained involved with this work for roughly three years.
+
+The position required working directly with several kinds of structured data and enterprise tools. I searched, examined, and edited XML data and constructed and modified SQL statements for querying data.
+
+A substantial amount of the testing workflow also involved Microsoft Excel. We used both ordinary spreadsheet functionality and more advanced features, including lookup functions such as VLOOKUP and XLOOKUP, macros, and eventually Visual Basic for Applications.
+
+The testing environment also included proprietary tools that I remember as EasyTest and EasyQuery. I do not know whether those systems were proprietary to CVS, Cognizant, or another vendor, so I would not attribute ownership without verification. These tools used Excel files extensively as inputs and outputs.
+
+It was during this work that I began using VBA more seriously rather than simply using Excel as an end-user application.
+
+## Zinnia: Combining Finance and Technology
+
+In 2023, I joined what was then associated with Security Benefit and subsequently became part of Zinnia.
+
+Zinnia is a business-to-business financial-services technology company. Although the company is less visible to the general public than consumer-facing financial brands, its products and services operate behind the scenes within the insurance and financial-services industries.
+
+The portion of the business in which I work is involved in daily investment pricing, net asset value calculations, and related financial reporting.
+
+A single publicly traded stock has a readily observable market price. A compound investment vehicle, however, may contain dozens or hundreds of underlying securities or other financial instruments. Determining its value therefore requires aggregating and processing information about those underlying assets, their relative weightings, changes in value, and other relevant financial information.
+
+Zinnia performs these kinds of calculations and reports the resulting information to its clients.
+
+My formal job title has changed several times despite the underlying work remaining substantially the same. I was hired as a Technical Accountant. The title was subsequently changed to Carrier Solutions Specialist and later to Insurance Solutions Specialist.
+
+Those title changes did not represent comparable changes in my actual responsibilities.
+
+## Unit Value Cloud and Daily Pricing
+
+A major application used in my work is Unit Value Cloud, generally abbreviated UVC.
+
+UVC is a substantial enterprise application that receives financial data, processes that information, performs calculations such as net asset value computations, aggregates pricing information, and generates files that are subsequently transmitted to clients.
+
+I work as one of the daily pricers responsible for overseeing and enabling this process.
+
+At the user level, UVC has a substantial learning curve and is not especially intuitive to someone encountering it for the first time. Once familiar with its workflow, however, it provides the tools needed to aggregate prices, calculate values, generate reporting files, process index-related information, and handle events such as splits and reverse splits.
+
+My work includes activities such as reconciliations, audit-related processing, data review, pricing operations, and ensuring that resulting financial information is suitable for review and eventual transmission.
+
+## Using VBA to Automate Financial Workflows
+
+A significant portion of financial operations involves repetitive but highly structured work.
+
+For example, reconciliation may require extracting numerous rows from Excel files, combining information from multiple documents, applying filters, comparing values, and preparing the resulting information for review.
+
+When the source documents use consistent naming conventions and predictable structures, those processes are particularly suitable for automation.
+
+I therefore began developing VBA solutions to automate portions of my own workflow.
+
+Through practical use, I became considerably more proficient with Visual Basic for Applications. Instead of manually performing every step of a reconciliation, VBA could perform much of the predictable data manipulation and prepare the reconciliation for review.
+
+The accountant's role then shifts from manually assembling all of the information to reviewing the automatically prepared results, identifying anomalies, and confirming that the reconciliation is correct.
+
+This is an important distinction in how I approach automation. My objective is not simply to remove the human from a financial process. Automation handles predictable and repetitive operations efficiently, while the knowledgeable professional remains responsible for reviewing and validating the result.
+
+## Python, Selenium, and Index-Pricing Automation
+
+Another opportunity for automation emerged from index reporting and pricing.
+
+The process involves approximately 80 different values obtained from a variety of sources. Depending upon the item, these may include stock or index prices, bond-related rates, interest rates published by government or quasi-governmental entities, and other financial data.
+
+Historically, obtaining these values involved a considerable amount of repetitive manual work.
+
+Information might arrive as an attachment to an email, as a document transmitted through FTP, as a file stored on the company's internal network, or from an external web resource. An employee then had to open the relevant files, locate particular values—often inside Excel workbooks—and assemble the information needed for the pricing process.
+
+I recognized that much of this process was predictable enough to automate and proposed doing so to my managers.
+
+My academic programming experience had included more Java than Python, and I was familiar with Selenium as a browser-automation framework. My original thinking therefore leaned toward a Java-based implementation.
+
+The organization, however, had people with significantly more Python expertise than Java expertise. The decision was made to implement the solution in Python so that experienced internal developers would be available if I encountered problems.
+
+At that point, I had essentially no practical Python experience.
+
+I taught myself enough Python to build the solution.
+
+Because Selenium supports multiple programming languages, I was able to apply my existing familiarity with Selenium concepts while learning Python and using it to automate the index-pricing workflow.
+
+The resulting system gathers and processes information that previously required approximately an hour and a half to two hours of hands-on work.
+
+The automated process now completes in approximately ten minutes.
+
+The output is not simply transmitted without supervision. Because the information is financial data, an accountant still reviews the results before they are approved and sent onward. The automation handles the repetitive data-gathering and processing work while the professional remains responsible for validation.
+
+## My Overall Path Into Technology
+
+My path into technology has not been a single straight line.
+
+It began with childhood curiosity, an early computer camp, and elementary programming concepts. It continued through DOS-era troubleshooting, when I discovered that I sometimes enjoyed figuring out why software did not work more than I enjoyed using the software itself.
+
+Military service exposed me to medical imaging, ruggedized computing, communications systems, and early telemedicine. Later, I received formal education in programming and database administration while simultaneously studying finance and economics.
+
+My professional career took me through casino operations, an early IT support position, hotel management, a full-stack development boot camp, enterprise technical support, software quality assurance, and eventually financial technology.
+
+That combination has produced a technical background that is somewhat unusual.
+
+I have experience with programming and scripting, but I also understand the business processes those programs are intended to support. I have worked with XML, SQL, Excel, VBA, Java, Python, Selenium, enterprise ticketing systems, QA processes, financial data, reconciliations, investment pricing, and enterprise applications.
+
+More importantly, I tend to approach technology from the perspective of solving an operational problem.
+
+When I encounter a repetitive process, I naturally begin looking for its rules: Which steps are predictable? Which inputs have consistent structures? Which decisions actually require human judgment? Which operations can be automated? And how can the process be made faster without sacrificing the human review necessary for accuracy?
+
+That tendency has been present throughout my relationship with technology—from modifying DOS configuration files simply to get a game running to teaching myself Python so that a financial process requiring up to two hours of manual effort could be reduced to roughly ten minutes.
+
+Technology has therefore been less a single job title in my career than a recurring method of approaching problems: understanding how a system works, identifying where it can be improved, learning whatever tools are necessary, and then building or implementing a practical solution.
